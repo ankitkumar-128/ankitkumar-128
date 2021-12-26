@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankitkumar-128
 - 👀 I’m interested in learing about AI and  ML
-- 🌱 I’m currently learning coding and Data Science
+- 🌱 I’m currently learning python and Data Science
 - 📫 reach me by my gmail ankitkr704@gmail.com
 
 <!---
